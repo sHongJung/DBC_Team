@@ -1,31 +1,31 @@
 # DBC_Team - CrytoPy
 
 Goal<br />
-Find correlation between cryptocurrency, social media and stock market.__
-Stock market (nasdaq, dow jones)__
-Social media (twitter hashtags #bitcoin )__
-May look at other markets like Korea__
-Time frame : a week, 24 hour__
+Find correlation between cryptocurrency, social media and stock market.<br />
+Stock market (nasdaq, dow jones)<br />
+Social media (twitter hashtags #bitcoin )<br />
+May look at other markets like Korea<br />
+Time frame : a week, 24 hour<br />
 
-index__
-time
+index<br />
+time<br />
 
-Hypothesis__
-There is a delay between tweets and the changes in the currency market__
-Also, a delay between stock and changes in the currency market__
+Hypothesis<br />
+There is a delay between tweets and the changes in the currency market<br />
+Also, a delay between stock and changes in the currency market<br />
 
-Data Source__
-2-3 years of historical data from GDAX, CryptoCompare, Stripe, Coinbase__
+Data Source<br />
+2-3 years of historical data from GDAX, CryptoCompare, Stripe, Coinbase<br />
 
-API__
-https://api.coinbase.com __
-https://www.cryptocompare.com/api/ __
-https://api.stripe.com __
+API<br />
+https://api.coinbase.com <br />
+https://www.cryptocompare.com/api/ <br />
+https://api.stripe.com <br />
  
-Results__
-6-8 Visualizations and Observations__
-Tweet volume(sentiment) versus price change__
-Tweet volume versus trade volume __
+Results<br />
+6-8 Visualizations and Observations<br />
+Tweet volume(sentiment) versus price change<br />
+Tweet volume versus trade volume <br />
 
-Team__
-Seohong, Scott, Sara, Debbie, Rupali__
+Team<br />
+Seohong, Scott, Sara, Debbie, Rupali<br />
