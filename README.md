@@ -1,6 +1,6 @@
 # DBC_Team - CrytoPy
 
-Goal__
+Goal<br />
 Find correlation between cryptocurrency, social media and stock market.__
 Stock market (nasdaq, dow jones)__
 Social media (twitter hashtags #bitcoin )__
