@@ -1,39 +1,29 @@
-# DBC_Team
+# DBC_Team - CrytoPy
 
-  Team Project
-
-Goals:
-Find correlation between one type of coins with 
-stock market ( nasdaq, dow jones,…)
-social media ( twitter hashtags #bitcoin )
-in other markets ( like Korea)
-time frame : a week, 24 hour
-
-Coin: ripple
-
+Goal
+Find correlation between cryptocurrency, social media and stock market.
+Stock market (nasdaq, dow jones)
+Social media (twitter hashtags #bitcoin )
+May look at other markets like Korea
+Time frame : a week, 24 hour
 index : time
 
 Hypothesis :
-there is a delay between tweets and changes in the currency market
-there is a delay between stock and changes in the currency market
-volume of the tweets compare to the changes
-sentiment and the volume
+There is a delay between tweets and the changes in the currency market
+Also, a delay between stock and changes in the currency market
 
+Data Source
+2-3 years of historical data from GDAX, CryptoCompare, Stripe, Coinbase
 
-Resources:
-GDAX
-Coinbase
-Stripe
+API
+https://api.coinbase.com
+https://www.cryptocompare.com/api/
+https://api.stripe.com
 
+Results
+6-8 Visualizations and Observations
+Tweet volume(sentiment) versus price change
+Tweet volume versus trade volume 
 
-Time schedule:
-
-
-Type of Result:
-
-8 visualizations
-
-
-Sara to check the dates for and send them to the group
-to get twitter data ( volume, sentiment,)
-to get stock  market data
+Team
+Seohong, Scott, Sara, Debbie, Rupali
