@@ -27,3 +27,5 @@ https://api.stripe.com <br />
 Tweet volume(sentiment) versus price change<br />
 Tweet volume versus trade volume <br />
 
+**Team**<br />
+Seohong, Scott, Sara, Debbie, Rupalioinbase
